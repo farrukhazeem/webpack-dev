@@ -1,0 +1,18 @@
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    text-align: center;
+    background-color: #B2DFDB;
+}
+
+h1 {
+    font-size: 28px;
+    margin: 20px;
+}
+
+p {
+    border: 1px solid #303F9F;
+    padding: 20px;
+    margin: 30px auto;
+    width: 50%;
+    font-size: 18px;
+}
